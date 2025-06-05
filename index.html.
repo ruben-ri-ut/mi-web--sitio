@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cristiano Ronaldo"</title>
+    </head>
+<style>
+        
+        h1{ 
+            color: rgb(192, 21, 235);
+        }
+        
+        body {
+            
+            background-color:rgb(230, 189, 25);
+        }
+        
+        p { color: rgb(0, 0, 255);
+        }
+        </style>
+
+    <body>
+
+    <h1>Quien es ?</h1>
+
+    <img src="https://duckduckgo.com/?t=ffab&q=emogi+de+pregunta&ia=images&iax=images&iai=https%3A%2F%2Fimage.pngaaa.com%2F705%2F20705-middle.png" alt="pensando" width="203">
+
+<ul>
+        <li>Se llama Cristiano Ronaldo dos Santos Aveiro</li>
+        <li>Nacio el 5 de febrero de 1985</li>
+        <li>Nacion en Funchal (Madeira, Portugal)</li>
+        <li>Y juega de delantero en un equipo de arabia saudi</li>
+    </ul>
+
+    <h2>En que equipos jugo?</h2>
+<ol>
+        <li>Empezo su carrera en el Sporting de Lisboa</li>
+        <li>Su siguiente equipo fue el manchester united</li>
+        <li>Luego se fue al Real Madrid</li>
+        <li>Despues se fue a la Juventus</li>
+        <li>Luego volvio al Manchester United</li>
+        <li>Y actualmente juega en el Al-Nassr F.C.</li>
+</ol>
+
+    <h3>Algo sobre el</h3>
+
+    <p>Es uno de los mejores futbolistas de la historia. Ha ganado múltiples títulos con<br> clubes como Manchester United, Real Madrid y Juventus, además gano la Eurocopa del 2016 <br> con su selección. Es reconocido por su talento, disciplina y capacidad que tiene de goleadora.<br>
+    </p>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AfE0IKPcvBaz5iRSupdk2wHaEK%26pid%3DApi&f=1&ipt=b820ec01057412ad6d4ad599129bfa9a017ae55d1ff47a7d07d04597e2e73964&ipo=images" alt="portugal" width=203">
+
+    
+    <a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo"</a>
+    </p>
+    
+    </body>
+</html>
